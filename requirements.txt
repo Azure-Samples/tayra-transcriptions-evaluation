@@ -1,0 +1,7 @@
+azure-cognitiveservices-speech
+python-dotenv
+openai
+requests
+pandas
+scipy
+streamlit

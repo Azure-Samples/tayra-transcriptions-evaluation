@@ -396,3 +396,12 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+
+# Project specific ignore patterns
+.venv/
+*.csv
+*.mp3.txt
+*.npy
+.env
+.vscode/launch.json
+*Zone.Identifier

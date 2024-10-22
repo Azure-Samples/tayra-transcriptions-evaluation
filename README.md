@@ -56,6 +56,12 @@ This project framework provides the following features:
 
 After running the above commands, you will see the final report in the `transcriptions` directory.
 
+## Sample Data
+We provide some sample data in the `audios` directory. You can use these files to test the project.
+There are also some sample groundtruth transcriptions in the `transcriptions/groundtruth` directory.
+
+These audio files and transcriptions were obtained from the [Kaggle - The LJ Speech Dataset](https://www.kaggle.com/datasets/mathurinache/the-lj-speech-dataset).
+
 ## Resources
 
 - [Azure Speech Service](https://learn.microsoft.com/en-us/azure/ai-services/speech-service/overview)
